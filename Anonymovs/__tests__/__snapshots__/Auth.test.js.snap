@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutApp SnapShoot 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#191926",
+        "flex": 1,
+        "justifyContent": "center",
+      },
+      Object {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/img/logo-only.png",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginTop": 213.5,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onChangeText={[Function]}
+      placeholder="Input a name to enter"
+      placeholderTextColor="#999999"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "borderBottomColor": "#999999",
+          "borderBottomWidth": 1,
+          "color": "#FFFFFF",
+          "maxWidth": 412.5,
+          "padding": 22.5,
+          "width": 412.5,
+        }
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF3365",
+          "borderRadius": 4,
+          "marginLeft": 37.5,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "padding": 22.5,
+          }
+        }
+      >
+        Submit
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Profile SnapShoot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#191926",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/img/logo.png",
+      }
+    }
+  />
+  <ActivityIndicator
+    animating={true}
+    color="#FFFFFF"
+    hidesWhenStopped={true}
+    size="large"
+    style={
+      Object {
+        "marginTop": 26.5,
+      }
+    }
+  />
+</View>
+`;

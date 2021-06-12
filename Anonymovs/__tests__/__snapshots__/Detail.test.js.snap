@@ -1,0 +1,758 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail SnapShoot 1`] = `
+<RCTScrollView
+  showsVerticalScrollIndicator={false}
+  style={
+    Object {
+      "backgroundColor": "#191926",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Object {
+          "resizeMode": "cover",
+          "width": 750,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://image.tmdb.org/t/p/w500undefined",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": 750,
+            },
+            undefined,
+          ]
+        }
+      />
+      <BVLinearGradient
+        colors={
+          Array [
+            0,
+            4279834918,
+          ]
+        }
+        endPoint={
+          Object {
+            "x": 0,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          Object {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 733.5,
+            "justifyContent": "flex-end",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "elevation": 20,
+            "shadowColor": "#fff",
+            "shadowOffset": Object {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0.39,
+            "shadowRadius": 8.3,
+          }
+        }
+      >
+        <Image
+          resizeMode="contain"
+          source={
+            Object {
+              "uri": "https://image.tmdb.org/t/p/w500undefined",
+            }
+          }
+          style={
+            Object {
+              "bottom": 133.5,
+              "height": 400,
+              "left": 37.5,
+              "position": "absolute",
+              "width": 300,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginHorizontal": 37.5,
+          "top": -93.5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 19,
+              "fontWeight": "600",
+            }
+          }
+        />
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#FF3365",
+                  "fontSize": 46.5,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰋕
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "gold",
+                "fontSize": 20,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Material Design Icons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          󰓎
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "marginLeft": 10,
+            }
+          }
+        >
+          NaN
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "color": "#999999",
+            "marginTop": 26.5,
+            "textAlign": "justify",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "marginVertical": 26.5,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 220,
+              "width": undefined,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "overflow": "hidden",
+                },
+                undefined,
+              ]
+            }
+          >
+            <RNCWebView
+              allowsFullscreenVideo={true}
+              allowsInlineMediaPlayback={true}
+              bounces={false}
+              cacheEnabled={true}
+              injectedJavaScriptBeforeContentLoadedForMainFrameOnly={true}
+              injectedJavaScriptForMainFrameOnly={true}
+              javaScriptEnabled={true}
+              mediaPlaybackRequiresUserAction={false}
+              messagingEnabled={true}
+              onContentProcessDidTerminate={[Function]}
+              onHttpError={[Function]}
+              onLoadingError={[Function]}
+              onLoadingFinish={[Function]}
+              onLoadingProgress={[Function]}
+              onLoadingStart={[Function]}
+              onMessage={[Function]}
+              onShouldStartLoadWithRequest={[Function]}
+              source={
+                Object {
+                  "uri": "https://lonelycpp.github.io/react-native-youtube-iframe/iframe.html?data=%7B%22rel_s%22:0,%22loop_s%22:0,%22videoId_s%22:%22%22,%22controls_s%22:1,%22contentScale_s%22:1,%22cc_lang_pref_s%22:%22%22,%22allowWebViewZoom%22:false,%22modestbranding_s%22:0,%22preventFullScreen_s%22:1,%22showClosedCaptions_s%22:0%7D",
+                }
+              }
+              style={
+                Array [
+                  Object {
+                    "flex": 1,
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "backgroundColor": "#ffffff",
+                  },
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+              useSharedProcessPool={true}
+              userAgent=""
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 40,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontWeight": "500",
+              "textAlign": "center",
+            }
+          }
+        >
+          Rate this Movie
+        </Text>
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "flexDirection": "column",
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "fontWeight": "bold",
+                  "margin": 10,
+                },
+                Object {
+                  "color": "rgba(230, 196, 46, 1)",
+                  "fontSize": 25,
+                },
+              ]
+            }
+          >
+            So So
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#f1c40f",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#f1c40f",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#f1c40f",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#f1c40f",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#f1c40f",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#BDC3C7",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#BDC3C7",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#BDC3C7",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#BDC3C7",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-ratings/dist/images/airbnb-star.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "margin": 3,
+                    "tintColor": "#BDC3C7",
+                    "transform": Array [
+                      Object {
+                        "scale": 1,
+                      },
+                    ],
+                    "width": 20,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FF3365",
+              "borderRadius": 15,
+              "justifyContent": "center",
+              "marginTop": 26.5,
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+                "paddingVertical": 13.5,
+              }
+            }
+          >
+            Submit
+          </Text>
+        </View>
+      </View>
+      <View />
+    </View>
+  </View>
+</RCTScrollView>
+`;

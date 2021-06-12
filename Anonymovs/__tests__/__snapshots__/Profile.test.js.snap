@@ -1,0 +1,756 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutApp SnapShoot 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#191926",
+      "flex": 1,
+      "padding": 30,
+    }
+  }
+>
+  <View>
+    <RCTSafeAreaView
+      emulateUnlessSupported={true}
+      style={
+        Object {
+          "marginBottom": 40,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "marginVertical": 10,
+            }
+          }
+        >
+          What is Anonymovs
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+            }
+          }
+        >
+          Anonymovs is a mobile application that i build for Technical Assessment from Glints Academy and written and built programmatically in React Native. This app is just a simple collection movies for person who want to know all movies that played in the cinema, upcaming or top rated. You can also give some rating to a movie and add movie to your favorite list.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "marginVertical": 10,
+            }
+          }
+        >
+          Features
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Search for a Movies
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Save and Delete a Movie
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Display information of a getAllMovies
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "marginVertical": 10,
+            }
+          }
+        >
+          Frameworks
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            The MovieDB API
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Vector Icon
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Animatable
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Linear Gradient
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            AirBnB Rating
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Youtube iFrame
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "marginVertical": 10,
+            }
+          }
+        >
+          Tech
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            Redux Saga
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            XCode & Anroid Studio
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "marginVertical": 3,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 10,
+                },
+                Object {
+                  "marginRight": 10,
+                },
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰝤
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+              }
+            }
+          >
+            VSCode
+          </Text>
+        </View>
+      </View>
+    </RCTSafeAreaView>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`AboutMe SnapShoot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#191926",
+      "flex": 1,
+      "padding": 30,
+    }
+  }
+>
+  <RCTSafeAreaView
+    emulateUnlessSupported={true}
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 20,
+          "fontWeight": "700",
+          "marginVertical": 10,
+        }
+      }
+    >
+      About Me
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+        }
+      }
+    >
+      A competent IT professional with experience in network and troubleshoot software or hardware for 5 years. Extensive experience of working in the front line helping clients and colleagues resolve complex technical IT issues. Possessing excellent natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policy within a company. And just finnishing studied React Native at Glints Academy Batch 11.
+    </Text>
+  </RCTSafeAreaView>
+</View>
+`;
+
+exports[`Profile SnapShoot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#191926",
+      "flex": 1,
+      "justifyContent": "center",
+      "padding": 30,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 20,
+        }
+      }
+    >
+      Helloo .... 
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#999999",
+          "borderRadius": 15,
+          "justifyContent": "center",
+          "marginVertical": 13.5,
+          "opacity": 1,
+          "padding": 22.5,
+          "width": 600,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontWeight": "500",
+          }
+        }
+      >
+        About this app
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#999999",
+          "borderRadius": 15,
+          "justifyContent": "center",
+          "marginVertical": 13.5,
+          "opacity": 1,
+          "padding": 22.5,
+          "width": 600,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontWeight": "500",
+          }
+        }
+      >
+        About Me
+      </Text>
+    </View>
+  </View>
+</View>
+`;
