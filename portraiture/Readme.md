@@ -39,19 +39,8 @@ Tech:
 You can download this APK to try this mobile application on your android phone :
 https://drive.google.com/file/d/1Fd1FEhlfzccfMz9PDsCOM8PdC_u3Y5fG/view?usp=sharing
 
-And, you can check the mobile apps demo with this link :
-https://drive.google.com/file/d/1R-VzJPoXLpLydlf86T_MtN_E9R-LFSoQ/view?usp=sharing
-
-# Screen Capture
-
-![splash screen](https://user-images.githubusercontent.com/64253215/121782112-3a807580-cbd2-11eb-8d51-a9926893972d.png)
-![login](https://user-images.githubusercontent.com/64253215/121782148-5edc5200-cbd2-11eb-924f-be4de5f03486.png)
-![home screen](https://user-images.githubusercontent.com/64253215/121782143-597f0780-cbd2-11eb-9074-b426da44d459.png)
-![home screen update](https://user-images.githubusercontent.com/64253215/121782132-4f5d0900-cbd2-11eb-916a-8f9c957029f2.png)
-![select theme](https://user-images.githubusercontent.com/64253215/121782165-6b60aa80-cbd2-11eb-86af-6136cb3fa194.png)
-![project detail](https://user-images.githubusercontent.com/64253215/121782174-761b3f80-cbd2-11eb-84ab-5c451157689a.png)
-![rundown from project](https://user-images.githubusercontent.com/64253215/121782169-6f8cc800-cbd2-11eb-921e-7aa242ba9d21.png)
-
+Mobile App Demo :
+https://user-images.githubusercontent.com/64253215/121783188-7ff37180-cbd7-11eb-8ab2-1e6a63c368f9.mp4
 
 
 
