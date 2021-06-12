@@ -39,7 +39,6 @@ Tech:
 You can download this APK to try this mobile application on your android phone :
 https://drive.google.com/file/d/1Fd1FEhlfzccfMz9PDsCOM8PdC_u3Y5fG/view?usp=sharing
 
-Mobile App Demo :
 https://user-images.githubusercontent.com/64253215/121783188-7ff37180-cbd7-11eb-8ab2-1e6a63c368f9.mp4
 
 
