@@ -1,5 +1,5 @@
 # Anonymovs
-Anonymovs is a mobile application that i build for Technical Assessment from Glints Academy, written and built programmatically in React Native. This app is just a simple collection movies for person who want to know all movies that played in the cinema, upcoming or top rated. You can also give some rating to a movie and add movie to your favorite list.
+Anonymovs is a mobile application that i build for Technical Assessment from Glints Academy just for 2 days, written and built programmatically in React Native. This app is just a simple collection movies for person who want to know all movies that played in the cinema, upcoming or top rated. You can also give some rating to a movie and add movie to your favorite list.
 
 Features:
 * Search for a Movies. 
